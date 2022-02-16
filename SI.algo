@@ -1,0 +1,9 @@
+ALGO Max
+ENTREE x y
+DEBUT 
+SI ( x > y) ALORS
+	AFFICHER x
+SINON
+	AFFICHER y
+FSI
+FIN

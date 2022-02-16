@@ -1,0 +1,9 @@
+ALGO tq
+DEBUT
+VAR hello
+hello <- 10
+TQ (hello > 0) FAIRE
+  hello <- hello - 1
+  AFFICHER hello
+FTQ
+FIN
